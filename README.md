@@ -8,8 +8,8 @@ Enjoy!!
 __________________________________
 Krunker functions
 
-|Aim Assist|✅|
-|----------|--|
+|Aim Assist|Work✅|
+|----------|------|
 |Auto Bhop|in development|
 |ESP|not include in this hax| Pls click this LINK(https://github.com/Krunker-Java-plus-X/Krunker-JV-Hack) if you want ESP
 |Auto Fire|in development|
