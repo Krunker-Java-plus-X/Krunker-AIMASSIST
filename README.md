@@ -15,4 +15,6 @@ Krunker functions
 |Auto Fire|in development|
 __________________________________
 - Need ESP?
-Click this LINK(https://github.com/Krunker-Java-plus-X/Krunker-JV-Hack)
+
+|Click this LINK(https://github.com/Krunker-Java-plus-X/Krunker-JV-Hack)|
+|-----------------------------------------------------------------------|
