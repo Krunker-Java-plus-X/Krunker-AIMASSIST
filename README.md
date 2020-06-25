@@ -2,6 +2,10 @@
 Krunker Aim Assist (windows only)
 >Krunker.io Hack v2.5.8 ✔️
 __________________________________
+just download the exe file and open
+That's it!!
+Enjoy!!
+__________________________________
 Krunker functions
 
 |Aim Assist|✅|
