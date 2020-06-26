@@ -16,6 +16,8 @@ Krunker functions
 |ESP|not include in this hax| 
 |Auto Fire|in development|
 __________________________________
+>How to download hax
+
 Click this LINK and Download!
 https://www.mediafire.com/file/offhtbb9g89frem/Official_Krunker.io_Client.exe/file
 __________________________________
