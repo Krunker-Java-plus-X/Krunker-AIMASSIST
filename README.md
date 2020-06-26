@@ -1,4 +1,4 @@
-# Krunker-AIMASSIST
+# Krunker-Aim Assist
 Krunker Aim Assist (windows only)
 >Krunker.io Hack v2.5.8 ✔️
 __________________________________
