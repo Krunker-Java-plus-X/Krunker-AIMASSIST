@@ -13,7 +13,7 @@ Krunker functions
 |Aim Assist|Work✅|
 |----------|------|
 |Auto Bhop|in development|
-|ESP|not include in this hax| 
+|ESP|✅| 
 |Auto Fire|in development|
 __________________________________
 >How to download hax
